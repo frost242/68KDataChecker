@@ -11,4 +11,10 @@ To overcome this problem, I wrote a very simple tool that scans all the assembly
 The tool is written in C# .Net Core 8.0.
 You can download the tool here => https://github.com/samoteph/68KDataChecker/blob/master/bin/Release/net8.0/68KDataChecker.exe
 
+Usage:
+68KDataChecker.exe path_to_your_first_assembler_code
+
+Example:
+68KDataChecker.exe c:\foo\main.s
+
 <img width="1482" height="762" alt="image" src="https://github.com/user-attachments/assets/708b2ef7-0421-4caa-8b99-ee609094bdcb" />
